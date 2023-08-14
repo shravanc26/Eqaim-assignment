@@ -28,4 +28,6 @@ Users should be able to:
 
 ### Steps
 - All the challenges are done with efficient and appropriate manner.
-- Used the technology mentioned for the assignment
+- Used the technology mentioned for the assignment.
+- Used local storage as a database for CRUD operations.
+- Made responsive  for desktop, tablet and mobile.
