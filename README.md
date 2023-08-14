@@ -8,7 +8,7 @@ The candidate needs to update this file
   - [The challenge](#the-challenge)
   - [Steps](#steps)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+<!-- **Note: Delete this note and update the table of contents based on what sections you keep.** -->
 
 ## Overview
 
