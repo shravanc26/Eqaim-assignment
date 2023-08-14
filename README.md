@@ -27,6 +27,5 @@ Users should be able to:
 - Keep track of any changes, even after refreshing the browser (`localStorage` could be used for this if you're not building out a full-stack app)
 
 ### Steps
-- Write down the detailed steps here
 - All the challenges are done with efficient and appropriate manner.
 - Used the technology mentioned for the assignment
